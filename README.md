@@ -145,6 +145,7 @@ Starting Point
 * [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/) by [Omer Dawelbeit](https://twitter.com/omerio)
 * [Top Reasons Businesses Should Move to Kubernetes Now](http://supergiant.io/blog/top-reasons-businesses-should-move-to-kubernetes-now) by [Mike Johnston](https://github.com/gopherstein)
 * [The Children's Illustrated Guide to Kubernetes](http://deis.com/blog/2016/kubernetes-illustrated-guide/) by [Deis](https://github.com/deis)
+* [Kubernetes Hosting Compared - AWS vs GCP vs Azure](https://codefresh.io/Kubernetes-Tutorial/kubernetes-cloud-aws-vs-gcp-vs-azure/)
 * [The ‘kubectl run’ command](http://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) by [Michael Hausenblas](https://twitter.com/mhausenblas)
 * [Docker Kubernetes Lab Handbook](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
 
@@ -291,6 +292,7 @@ Managed Kubernetes
 
   ### [Developer Platform](#developer-platform)
 
+  - [Codefresh](https://codefresh.io)
   - [Fabric8](http://fabric8.io)
    - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [Mantl](https://github.com/mantl/mantl)
@@ -462,6 +464,9 @@ Projects
 
 *Build-test-deploy automated workflow software designed to make production environments more stable and life better for engineers*
 
+* [Codefresh](https://codefresh.io)
+   * [Adding Kubernetes Deployment](https://codefresh.io/kubernetes-deploy/)
+   * [Codefresh Helm Plugin for CI/CD](https://codefresh.io/features/#Helm)
 * [Jenkins](https://jenkins.io)
    * [Jenkins-Kubernetes Plugin](https://github.com/jenkinsci/kubernetes-plugin) by [Carlos Sanchez](https://www.twitter.com/csanchez)
    * [Automated Image Builds with Jenkins, Packer, and Kubernetes](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes#kubernetes_architecture)
